@@ -18,3 +18,9 @@ However, in order to provide this simplicity to its users, Python uses a lot of 
 I have always enjoyed Python but I hadn't really used it in a while. This assignment really helped me remember the syntax that Python uses. I had to do alot of Googling to remember how to write functions, classes, etc but I eventually found my groove and remembered how much easier the syntax is compared to other languages.
 
 You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/blob/main/Assignment1/cs4395_a1_hbm170002.py).
+
+# Assignment_2
+
+This assignment examines a professional level NlP API: NLTK. It gets you into the practice of using NLTK.
+
+You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/blob/main/CS4395-a2-hbm170002.pdf).
