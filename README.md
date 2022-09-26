@@ -1,10 +1,10 @@
 # NLP_Portfolio
 
-# Assignment_0
+# Assignment 0
 
 This assignment summarizes the historical and current approaches to Natural Language Processing. You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/blob/main/cs4395_a0_hbm170002.pdf).
 
-# Assignment_1
+# Assignment 1
 
 This program reads in a csv file with information about employees that is not standardized or in the right format. It then goes through the file, extracting the data and modifying it so that it is all in the correct format. It does this by creating objects for each person and plugging in the modified data. If the file has incorrect data, the program tells the user, gives them the correct format and asks them to input the data again. Once all the data has been stored into a dictionary of Person objects (with each object carrying the data for one person), that dictionary is stored in a pickle file and then the user's updated and standardized information is outputted. 
 
@@ -19,8 +19,21 @@ I have always enjoyed Python but I hadn't really used it in a while. This assign
 
 You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/blob/main/Assignment1/cs4395_a1_hbm170002.py).
 
-# Assignment_2
+# Assignment 2
 
 This assignment examines a professional level NLP API: NLTK. It gets you into the practice of using NLTK.
 
 You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/blob/main/CS4395-a2-hbm170002.pdf).
+
+# Assignment 3
+
+This assignment creates a guessing game for users by choosing random processed words from a given file. The user gets a score of 5 assigned to them and that score increases by 1 if they guess a letter that was in the word and decreases by 1 if they guess an incorrect letter. If they guess the whole word correctly, they are congratulated and proceed to a new word. If, before they have guessed the word, their score becomes 0, the lose and the game ends. If the user wants to quit, they can enter '!'. 
+
+You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/tree/main/Assignment_3)
+
+# Assignment 4
+
+This assignment explores the use of WordNet.
+
+You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/blob/main/CS4395-a4-hbm170002.pdf)
+
