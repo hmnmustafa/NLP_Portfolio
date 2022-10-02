@@ -37,3 +37,9 @@ This assignment explores the use of WordNet.
 
 You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/blob/main/CS4395-a4-hbm170002.pdf)
 
+# Assigment 5
+
+This assignment explores ngrams and their uses in making predictions. 
+
+You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/tree/main/Assignment%205)
+
