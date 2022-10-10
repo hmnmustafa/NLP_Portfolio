@@ -47,5 +47,5 @@ You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/
 
 This assignment uses web scraping techniques to find and build a corpora that can later be used for a chatbot.
 
-You can view this assignment [here] (https://github.com/hmnmustafa/NLP_Portfolio/tree/main/Assignment%206)
+You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/tree/main/Assignment%206)
 
