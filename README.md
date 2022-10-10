@@ -43,3 +43,9 @@ This assignment explores ngrams and their uses in making predictions.
 
 You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/tree/main/Assignment%205)
 
+# Assignment 6
+
+This assignment uses web scraping techniques to find and build a corpora that can later be used for a chatbot.
+
+You can view this assignment [here] (https://github.com/hmnmustafa/NLP_Portfolio/tree/main/Assignment%206)
+
