@@ -49,3 +49,9 @@ This assignment uses web scraping techniques to find and build a corpora that ca
 
 You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/tree/main/Assignment%206)
 
+# Assignment 7
+
+This assignment creates an understanding of sentence parsing and different parsing methods such as PSG trees, dependency parse, and SRL parse.
+
+You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/tree/main/Assignment%207)
+
