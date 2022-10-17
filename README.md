@@ -35,7 +35,7 @@ You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/
 
 This assignment explores the use of WordNet.
 
-You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/blob/main/CS4395-a4-hbm170002.pdf)
+You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/tree/main/Assignment%204)
 
 # Assigment 5
 
