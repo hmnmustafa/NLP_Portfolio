@@ -29,7 +29,7 @@ You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/
 
 This assignment creates a guessing game for users by choosing random processed words from a given file. The user gets a score of 5 assigned to them and that score increases by 1 if they guess a letter that was in the word and decreases by 1 if they guess an incorrect letter. If they guess the whole word correctly, they are congratulated and proceed to a new word. If, before they have guessed the word, their score becomes 0, the lose and the game ends. If the user wants to quit, they can enter '!'. 
 
-You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/tree/main/Assignment_3)
+You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/tree/main/Assignment%203)
 
 # Assignment 4
 
