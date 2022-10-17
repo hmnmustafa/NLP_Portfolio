@@ -23,7 +23,7 @@ You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/
 
 This assignment examines a professional level NLP API: NLTK. It gets you into the practice of using NLTK.
 
-You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/blob/main/CS4395-a2-hbm170002.pdf).
+You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/blob/main/Assignment%202/CS4395-a2-hbm170002.pdf).
 
 # Assignment 3
 
