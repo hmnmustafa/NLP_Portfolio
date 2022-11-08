@@ -59,5 +59,5 @@ You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/
 
 This assignment uses sklearn's machine learning to perform author attribution. The different machine learning models used were Naive Bayes, Logistic Regression, and Neural Networks
 
-You can view this assignmnet [here](https://github.com/hmnmustafa/NLP_Portfolio/tree/main/Assignment%2011)
+You can view this assignment [here](https://github.com/hmnmustafa/NLP_Portfolio/tree/main/Assignment%2011)
 
