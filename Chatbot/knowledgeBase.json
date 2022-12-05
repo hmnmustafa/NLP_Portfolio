@@ -1,0 +1,91 @@
+{"knowledgeBase": [
+    {"tag": "greeting",
+     "patterns": ["hi", "hey", "is anyone there?", "hello", "hay"],
+     "responses": ["Hello", "Hi", "Hi there!"]
+    },
+    {"tag": "goodbye",
+     "patterns": ["bye", "see you later", "goodbye"],
+     "responses": ["See you later", "Have a nice day", "Bye! Come back again"]
+    },
+    {"tag": "thanks",
+     "patterns": ["thanks", "thank you", "that's helpful", "thanks for the help"],
+     "responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!"]
+    },
+    {"tag": "about",
+     "patterns": ["who are you?", "what are you?", "who you are?" ],
+     "responses": ["I am a Hamilton fanbot, an AI bot designed to answer your questions about Hamilton: An American Musical", "Your bot assistant designed to answer 'Hamilton: An American Musical' questions"]
+    },
+    {"tag": "name",
+    "patterns": ["what is your name", "what should I call you", "whats your name?"],
+    "responses": ["You can call me Tara. What can I call you?", "I'm Tara! You are?", "My name is Tara, what's your name?"]
+    },
+    {"tag": "theirname",
+    "patterns": ["my name is nnp", "i am nnp", "nnp","call me nnp"],
+    "responses": ["Nice to meet you, ", "Nice to meet you! How can I help you "]},
+
+    {"tag": "help",
+    "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need a support", "I need a help", "support me please"],
+    "responses": ["Tell me how I can assist you", "Tell me your problem to assist you", "Yes Sure, How can I support you"]
+    },
+    {"tag": "aboutlin",
+    "patterns": ["who is lin", "who is lin manuel miranda", "I want to know about lin manuel miranda", "can you tell me about lin", "give me information on lin manuel miranda","who wrote Hamilton", "who wrote it","author of hamilton"],
+    "responses": ["Lin-Manuel Miranda (born January 16, 1980) is an American songwriter, actor, playwright and filmmaker. He is known for creating the Broadway musicals Hamilton (2015) and In the Heights (2005), and the soundtrack of Disney's Encanto (2021)."]
+    },
+    {"tag": "linage",
+    "patterns": ["who old is lin", "what is lin manuel miranda's age", "I want to know about lin's age", "when was lin born", "whats lin's birthday"],
+    "responses": ["Lin-Manuel Miranda was born on January 16, 1980. He is 42 years old"]
+    },
+    {"tag": "lincharacter",
+    "patterns": ["who did lin-manuel play in hamilton", "who was lin-manuel miranda in hamilton", "what was lin's character", "was lin in hamilton the musical"],
+    "responses": ["He played the titular character Alexander Hamilton in Hamilton: An American Musical"]
+    },
+    {"tag": "linwrite",
+    "patterns": ["what else did lin write", "what did lin write", "did lin write anything else", "tell me what lin has written"],
+    "responses": ["He has not only written the Hamilton musical, he is also popular for writing a musical called 'In the Heights' and the soundtrack of 'Encanto'"]
+    },
+    {"tag": "linawards",
+    "patterns": ["what awards does lin-manuel have", "did lin win any awards", "lin's awards", "tell me about lin-manuel miranda's awards"],
+    "responses": ["His accolades include three Tony Awards, three Grammy Awards, two Laurence Olivier Awards, two Primetime Emmy Awards, an Annie Award, a MacArthur Fellowship Award, a Kennedy Center Honor, and a Pulitzer Prize."]
+    },
+    {"tag": "abouthamilton",
+    "patterns": ["what is hamilton about", "what is the musical about", "tell me about hamilton the musical", "details of hamilton musical"],
+    "responses": ["Hamilton is a sung-and-rapped-through musical by the American composer and actor Lin-Manuel Miranda. Composed over a seven-year period from 2008 to 2015, the musical tells the story of American Founding Father Alexander Hamilton."]
+    },
+    {"tag": "morehamilton",
+    "patterns": ["tell me more hamilton", "can you give me more details hamilton", "what was the storyline hamilton", "what else happened hamilton"],
+    "responses": ["The Grammy-winning show portrays the life of Alexander Hamilton, a founder of the United States who was once a poor, orphaned boy 'dropped in the middle of a forgotten spot of the Caribbean' — and it does so in the rhymes and music of hip-hop and pop."]
+    },
+    {"tag": "whenhamilton",
+    "patterns": ["when was hamilton written", "what year was hamilton released", "when was hamilton released", "when did hamilton come out"],
+    "responses": ["It premiered Off-Broadway on February 17, 2015, at the Public Theater in Lower Manhattan"]
+    },
+    {"tag": "aboutmusical",
+    "patterns": ["what are musicals?", "tell me about musicals", "i don't know what a musical is"],
+    "responses": ["Musical theatre is a form of theatrical performance that combines songs, spoken dialogue, acting and dance."]
+    },
+    {"tag": "aboutburr",
+    "patterns": ["who was aaron burr?", "tell me about burr", "i want ot know about aaron burr"],
+    "responses": ["Aaron Burr Jr. (February 6, 1756 – September 14, 1836) was an American politician and lawyer who served as the third vice president of the United States from 1801 to 1805. Burr's legacy is defined by his famous personal conflict with Alexander Hamilton that culminated in Burr killing Hamilton in a duel in 1804, while Burr was vice president."]
+    },
+    {"tag": "whenburr",
+    "patterns": ["what was aaron burr's age", "I want to know about burr's age", "when was burr born", "whats burr's birthday", "how old was burr"],
+    "responses": ["Aaron Burr Jr. was born on February 6, 1756 and died on September 14, 1836. He was 80 years old when he died."]
+    },
+    {"tag": "aboutwashington",
+    "patterns": ["who was washinton?", "tell me about george washington", "i want to know about washington"],
+    "responses": ["George Washington (February 22, 1732[b] – December 14, 1799) was an American military officer, statesman, and Founding Father who served as the first president of the United States from 1789 to 1797."]
+    },
+    {"tag": "whenwashington",
+    "patterns": ["what was washington's age", "I want to know about washington's age", "when was washington born", "whats washington's birthday", "how old was washington"],
+    "responses": ["George Washington (February 22, 1732[b] – December 14, 1799) was an American military officer, statesman, and Founding Father who served as the first president of the United States from 1789 to 1797."]
+    },
+    {"tag": "more",
+    "patterns": ["tell me more", "can you give me more details", "what was the storyline", "what else happened", "i want more information", "can i hear more", "more details"],
+    "responses": [""]
+    }
+    
+    
+    
+
+]
+}
